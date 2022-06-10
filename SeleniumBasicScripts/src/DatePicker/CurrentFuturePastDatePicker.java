@@ -12,7 +12,7 @@ public class CurrentFuturePastDatePicker{
 
 	public static WebDriver driver;
 	public static void main(String[] args) {
-		
+		int a=10;//for github;
 		System.setProperty("webdriver.chrome.driver", "F:\\Selenium Drivers\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
